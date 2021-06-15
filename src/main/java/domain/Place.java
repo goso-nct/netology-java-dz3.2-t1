@@ -10,7 +10,7 @@ public class Place {
     private Date created;
     private String icon;
     private int numCheckin;
-    private int country;
-    private int city;
+    private int countryId;
+    private int cityId;
     private String address;
 }
